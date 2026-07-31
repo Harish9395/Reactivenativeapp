@@ -10,7 +10,7 @@
   "containerDefinitions": [
     {
       "name": "react-app",
-      "image": "ghcr.io/harish9395/react-app:latest",
+      "image": "ghcr.io/harish9395/react-mobile-app:latest",
       "essential": true,
       "portMappings": [
         {
